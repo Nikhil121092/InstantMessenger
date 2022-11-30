@@ -8,26 +8,11 @@ Source News API : https://newsapi.org/
 
 ## I am using free tier so it provides only 1000 calls in 24 hours. So, it may not update the data to store if the given quota is fnished.
 
-
-
-# React.js Isomorphic Web Application Architecture
-Learn to build a complete production-level web app for a blogging platform like Medium, MindOrks, and FreeCodeCamp
-
-## Demo web app running this project: [**Goto Demo Website**](https://demo.react-app-architecture.afteracademy.com)
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/cover-react-app.png">
-</p>
-<br>
-
-## About this Open Source Project
-This open-source project is for you(community). I [**Janishar Ali**](https://janisharali.com) have taken this initiative to promote web development learning in the best possible way. I am determined to provide quality content for everyone. Let's do it together by learning from this project.
-
-## We will learn and build the React web application for a blogging platform. 
-The main focus will be to create a super fast and production-ready application with SEO.
+## This is the React web application for a news feeds platform. 
+The main focus here is to create a super fast and production-ready application.
 <br>
 Following are the highlights of this project:
-* **Isomorphic React web app**: The server sends the rendered pages to the client, and then the client renders the subsequent pages on its own. This is a very important feature for SEO and it also makes the first paint super fast.
+* **React web app**: The server sends the rendered pages to the client, and then the client renders the subsequent pages on its own. This is a very important feature for SEO and it also makes the first paint super fast.
 * **React Hooks**: This application uses hooks APIs from React, Redux, and other libraries. 
 * **Written in Typescript**: The type safety at build time and having intellisense for it in the IDE like vscode is unparalleled to productivity. We have found production bug reduced to a significant amount since most of the code vulnerabilities are identified during the build phase itself. The Typescript was preferred over the Flow for better vscode support and much more type availability for libraries.
 * **Separation of concern principle is applied**: Each component has been given a particular role. The role of the components is mutually exclusive. This makes the project easy to be unit tested.
@@ -68,18 +53,11 @@ Following are the highlights of this project:
       * Production: Execute `npm start`
     * You will be able to access the website from http://localhost:3001
 
-### Find this project useful? :heart:
-* Support it by clicking the :star: button on the upper right of this page. :v:
-
 ## Website Pages
 * Landing 
 * Blog List
 * Blog Page
 * Writing Pad - Markdown Editor
-* Preview - Markdown to HTML
-* Blog Detail Form
-* Writer Blogs Management
-* Editor Blogs Management
 
 <p float="left">
   <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/1.png">
@@ -88,14 +66,6 @@ Following are the highlights of this project:
 <p float="left">
   <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/3.png">
   <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/4.png">
-</p>
-<p float="left">
-  <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/5.png">
-  <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/6.png">
-</p>
-<p float="left">
-  <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/7.png">
-  <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/8.png">
 </p>
 
  ## Project Directory Structure
@@ -147,26 +117,3 @@ new_updates/
 ┣ package.json
 ┗ README.md
  ```
-
-### Find this project helpful? :heart:
-* Support it by clicking the :star: button on the upper right of this page. :v:
-
-### License
-```
-Copyright (C) 2022 JANISHAR ALI ANWAR
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
-
-
-
